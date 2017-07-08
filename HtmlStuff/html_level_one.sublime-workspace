@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"Procedure3"
+			],
+			[
+				"Pr",
+				"Procedure2"
+			],
+			[
+				"Proce",
+				"Procedure1"
+			],
+			[
+				"Assign",
+				"Assigned_Team"
+			],
+			[
+				"Te",
+				"Team_Results"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"Issue",
+				"Issues"
+			],
+			[
+				"Is",
+				"Issues"
+			],
+			[
+				"edit",
+				"edit_id"
+			],
+			[
+				"contac",
+				"contact_number"
+			],
+			[
+				"edituser",
+				"editUserBTN"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"contacnu",
+				"contactnumber"
+			],
+			[
+				"mysqf",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"edi",
+				"edit_id"
+			],
+			[
+				"del_",
+				"del_sql"
+			],
+			[
+				"date",
+				"date_add"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"g",
+				"_GET"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"Hed",
+				"HEAD\tTag"
+			],
+			[
+				"list",
+				"List"
+			],
+			[
+				"ver",
+				"verifyState"
+			],
+			[
+				"st",
+				"State1"
+			],
+			[
+				"obs",
+				"obstSpeed"
+			],
+			[
+				"ini",
+				"initialState"
+			],
+			[
+				"Inpu",
+				"InputStreamReader"
+			],
+			[
+				"temp",
+				"temprow"
+			],
+			[
+				"nto",
+				"nToThird"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"get",
+				"getAnswer"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"add",
+				"addSevenHelper"
+			],
+			[
+				"e",
+				"extractG"
+			],
+			[
+				"Int",
+				"Int"
+			],
+			[
+				"s",
+				"strToArr"
+			],
+			[
+				"intli",
+				"intlist1"
+			],
+			[
+				"str",
+				"strToInt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ramtin/Downloads/samples (1)/goldbach.in",
+		"/Users/Ramtin/Downloads/samples/002.in",
+		"/Users/Ramtin/Downloads/LD34 - Quill18 - Source Submission/Assets/Scripts/AutoTranslate.cs",
+		"/Applications/MAMP/htdocs/ER-patient signup system/sqlCommanFile.sql",
+		"/Users/Ramtin/.bashrc",
+		"/Users/Ramtin/.ssh/config",
+		"/Users/Ramtin/JavaCode/README.md",
+		"/Users/Ramtin/PythonTestProject/README.md",
+		"/Users/Ramtin/Desktop/PythonCode/test1.py",
+		"/Users/Ramtin/Downloads/Player.java",
+		"/Users/Ramtin/Downloads/db_connect.php",
+		"/Users/Ramtin/Downloads/submit_patient.php",
+		"/Users/Ramtin/Downloads/F3.hs",
+		"/Users/Ramtin/Downloads/emilelm-F3/F3/F3.hs",
+		"/Applications/MAMP/htdocs/labb2/index.php",
+		"/Applications/MAMP/htdocs/labb2/doktor.php",
+		"/Users/Ramtin/Downloads/tbrodd-X2/Smalltalk/x2.st",
+		"/Users/Ramtin/Downloads/tbrodd-X2/PHP/bernoulli.php",
+		"/Users/Ramtin/Downloads/tbrodd-X2/Clojure/bernoulli.clj",
+		"/Users/Ramtin/Downloads/tbrodd-X2/COBOL/bernoulli.cbl",
+		"/Users/Ramtin/Downloads/tbrodd-X2/Erlang/bernoulli.erl",
+		"/Users/Ramtin/ramtinj-S3/S3/Main.java",
+		"/Applications/MAMP/htdocs/labb2/nurse.php",
+		"/Applications/MAMP/htdocs/labb2/log.php",
+		"/Applications/MAMP/htdocs/labb2/sqlCommanFile2.sql",
+		"/Applications/MAMP/htdocs/labb2/sqlCommanFile.sql",
+		"/Users/Ramtin/Downloads/felixlil-X1/X1/busnumbers.hs",
+		"/Users/Ramtin/Downloads/felixlil-X1/X1/peragram.hs",
+		"/Users/Ramtin/Downloads/crud/css/custom.css",
+		"/Applications/MAMP/htdocs/labb2/database.php",
+		"/Applications/MAMP/htdocs/labb2/create.php",
+		"/Applications/MAMP/htdocs/learn_php/index3ForMultiplePagesTest.php",
+		"/Applications/MAMP/htdocs/learn_php/index kopia.php",
+		"/Applications/MAMP/htdocs/learn_php/receiver.php",
+		"/Applications/MAMP/htdocs/learn_php/index.php",
+		"/Applications/MAMP/htdocs/index2.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/receiver.php",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Users/Ramtin/ramtinj-X1/X1/Source.cpp",
+		"/Users/Ramtin/Downloads/X1/prolog Dart/dart.pl",
+		"/Users/Ramtin/MVKServer/MVKServer/Frontend.js",
+		"/Users/Ramtin/node_modules/socket.io/node_modules/object-assign/package.json",
+		"/Users/Ramtin/node_modules/socket.io/node_modules/object-assign/index.js",
+		"/Users/Ramtin/node_modules/socket.io-client/node_modules/component-emitter/index.js",
+		"/Users/Ramtin/Desktop/javaClient/webserver2.js",
+		"/Users/Ramtin/Desktop/Node/webServer.js",
+		"/Users/Ramtin/Desktop/webServer.js",
+		"/Users/Ramtin/Desktop/Node/readJson.js",
+		"/Users/Ramtin/Desktop/Node/dummy.json",
+		"/Users/Ramtin/Desktop/lek.js",
+		"/Users/Ramtin/Downloads/mondial.sql",
+		"/Users/Ramtin/Desktop/Vad ska göras",
+		"/Users/Ramtin/Desktop/herokuStuff/my-project/home.html",
+		"/Users/Ramtin/Desktop/herokuStuff/my-project/index.php",
+		"/Users/Ramtin/Desktop/test2.hs",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/brick.hs",
+		"/Users/Ramtin/Downloads/northwind.sql",
+		"/Users/Ramtin/modsim-labb1/solar_system.py",
+		"/Users/Ramtin/Documents/lab1/solar_system.py",
+		"/Users/Ramtin/Downloads/putty-0.67/macosx/README.OSX",
+		"/Users/Ramtin/Downloads/mcb32tools/downloads/binutils-2.25/opcodes/m10200-opc.c",
+		"/Users/Ramtin/Desktop/tests/myLogik.pl",
+		"/Users/Ramtin/Downloads/Projectii/mipslabdata.c",
+		"/Users/Ramtin/Downloads/Projectii/mipslabfunc.c",
+		"/Users/Ramtin/Downloads/Projectii/time4io.c",
+		"/Users/Ramtin/Downloads/Projectii/ship.c",
+		"/Users/Ramtin/Downloads/Projectii/obstacle.c",
+		"/Users/Ramtin/Downloads/Projectii/mipslabwork.c",
+		"/Users/Ramtin/Downloads/Projectii/mipslabmain.c",
+		"/Users/Ramtin/Desktop/temp.pl",
+		"/Users/Ramtin/Desktop/wlogik.pl",
+		"/Users/Ramtin/Desktop/myLogik.pl",
+		"/Users/Ramtin/Desktop/lek.cpp",
+		"/Users/Ramtin/Desktop/logik3.pl",
+		"/Users/Ramtin/Desktop/logik2.pl",
+		"/Users/Ramtin/Desktop/logik.pl",
+		"/Users/Ramtin/Downloads/Projectii/obstacle.h",
+		"/Users/Ramtin/Downloads/Projectii/Makefile",
+		"/Users/Ramtin/Downloads/Projecti/Makefile",
+		"/Users/Ramtin/Downloads/Projecti/mipslab.h",
+		"/Users/Ramtin/Downloads/Project/mipslab.h",
+		"/Users/Ramtin/Desktop/rand.c",
+		"/Users/Ramtin/Downloads/uno32tests 2/u32helpers.c",
+		"/Users/Ramtin/ramtinj-Inet/ATM/ATMServerThread.java",
+		"/Users/Ramtin/ramtinj-Inet/ATM/ATMClient.java",
+		"/Users/Ramtin/ramtinj-Inet/ATM/ATMServer.java",
+		"/Users/Ramtin/Downloads/s3-skelett/testfall/05-loop.in",
+		"/Users/Ramtin/Downloads/s3-skelett/DFA.java",
+		"/Users/Ramtin/Desktop/kurslitteratur år 2/BinaryTree.java",
+		"/Users/Ramtin/Desktop/Calculator 2/Parser.java",
+		"/Users/Ramtin/Desktop/Calculator 2/ParseTree.java",
+		"/Users/Ramtin/Desktop/Calculator 2/SyntaxError.java",
+		"/Users/Ramtin/Desktop/Calculator 2/Main.java",
+		"/Users/Ramtin/Desktop/Calculator 2/Lexer.java",
+		"/Users/Ramtin/Desktop/Calculator 2/Token.java",
+		"/Users/Ramtin/Downloads/BinTreeParser 2/Parser.java",
+		"/Users/Ramtin/Desktop/Calculator 2/test1.in",
+		"/Users/Ramtin/Downloads/BinTreeParser 2/Lexer.java",
+		"/Users/Ramtin/Downloads/Calculator 2/Token.java",
+		"/Users/Ramtin/Downloads/Calculator 2/Main.java",
+		"/Users/Ramtin/Downloads/Calculator 2/Lexer.java",
+		"/Users/Ramtin/Downloads/Calculator 2/Parser.java",
+		"/Users/Ramtin/Downloads/BinTreeParser 2/Token.java",
+		"/Users/Ramtin/Downloads/BinTreeParser 2/Main.java",
+		"/Users/Ramtin/Downloads/Calculator 2/ParseTree.java",
+		"/Users/Ramtin/Downloads/BinTreeParser 2/ParseTree.java",
+		"/Users/Ramtin/Desktop/s2.cpp",
+		"/Users/Ramtin/ramtinj-S1/S1/s1.py",
+		"/Users/Ramtin/Downloads/Stdin.in",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/ICPCTutorial.hs",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/server.hs",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/cryptoConundrum.hs",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/primeSpiral.hs",
+		"/Users/Ramtin/Downloads/BinTreeParser/Lexer.java",
+		"/Users/Ramtin/Downloads/BinTreeParser/Parser.java",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/ttS.hs",
+		"/Users/Ramtin/Desktop/Kattis_Lösningar/sevenWonders.hs",
+		"/Users/Ramtin/Desktop/Haskell Kod/new.hs",
+		"/Users/Ramtin/Desktop/PrologStuff/New.hs",
+		"/Users/Ramtin/Desktop/PrologStuff/intro.pl",
+		"/Users/Ramtin/Desktop/PrologStuff/logik1.pl",
+		"/Users/Ramtin/Desktop/PrologStuff/test.pl",
+		"/Users/Ramtin/Desktop/PrologStuff/skyffla.pl",
+		"/Users/Ramtin/Desktop/C-Kod/d2a2.c",
+		"/Users/Ramtin/Desktop/Haskell Kod/test.hs",
+		"/Users/Ramtin/Desktop/C-Kod/d2a3.c"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\";\n",
+			"<?php\n\t$server = \"localhost\";\n\t$username = \"ramtin\";\n\t$password = \"hello123\";\n\t$db = \"learn_php\";\n\t$conn = mysqli_connect($server,$username,$password,$db);\n?>",
+			"tick"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublime_haskell_error_panel":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "html_level_one.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/test.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
